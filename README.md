@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @GustavBarbosa
-- 👀 I’m interested in learning programming and evolve in my career as a programmer
-- 🌱 I’m currently learning the Java programming linguage and object-oriented programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: my e-mail> luisgustavocarvalhobarbosa@gmail.com or my instagram> @el_guto0
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i learn quickly and adapt easily
+## Olá! Sou o Gustavo 😎 Bem vindo ao meu perfil :)
+<br>
+  
+<div>
+  <a href= "https://github.com/GustavBarbosadev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarbosa&layout=compact&langs_count=16&theme=dark"/>  
+</div>
+    
+<div style="display: inline_block"><br>
+  <img width="80" height="80" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+</div>
 
-<!---
-GustavBarbosa/GustavBarbosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
